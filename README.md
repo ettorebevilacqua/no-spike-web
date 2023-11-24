@@ -1,52 +1,44 @@
-# React-admin CRM
+# no-spike-web
 
-This is a demo of the [react-admin](https://github.com/marmelab/react-admin) library for React.js. It's a CRM for a fake Web agency with a few sales. You can test it online at https://marmelab.com/react-admin-crm.
+## Installation
 
-https://user-images.githubusercontent.com/99944/116970434-4a926480-acb8-11eb-8ce2-0602c680e45e.mp4
-
-React-admin usually requires a REST/GraphQL server to provide data. In this demo however, the API is simulated by the browser (using [FakeRest](https://github.com/marmelab/FakeRest)). The source data is generated at runtime by a package called [data-generator](https://github.com/marmelab/react-admin/tree/master/examples/data-generator).
-
-To explore the source code, start with [src/App.tsx](https://github.com/marmelab/react-admin/blob/master/examples/crm/src/App.tsx).
-
-**Note**: This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
-## How to run
-
-After having cloned the react-admin repository, run the following commands at the react-admin root:
+Install the application dependencies by running:
 
 ```sh
-make install
-
-make build
-
-make run-crm
+yarn
 ```
 
-## Available Scripts
+## Development
 
-In the project directory, you can run:
+Start the application in development mode by running:
 
-### `npm start`
+```sh
+yarn dev
+```
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Production
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+Build the application in production mode by running:
 
-### `npm test`
+```sh
+yarn build
+```
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](#running-tests) for more information.
+## DataProvider
 
-### `npm run build`
+The included data provider use [FakeREST](https://github.com/marmelab/fakerest) to simulate a backend.
+You'll find a `data.json` file in the `src` directory that includes some fake data for testing purposes.
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+It includes two resources, posts and comments.
+Posts have the following properties: `id`, `title` and `content`.
+Comments have the following properties: `id`, `post_id` and `content`.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+## Authentication
 
-### `npm run deploy`
+The included auth provider should only be used for development and test purposes.
+You'll find a `users.json` file in the `src` directory that includes the users you can use.
 
-Deploy the build to GitHub gh-pages.
+You can sign in to the application with the following usernames and password:
+- janedoe / password
+- johndoe / password
+

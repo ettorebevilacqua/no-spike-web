@@ -1,15 +1,4 @@
-import fakerestDataProvider from 'ra-data-fakerest';
+import fakeRestDataProvider from 'ra-data-fakerest';
+import data from './data.json';
 
-import generateData from './dataGenerator';
-
-const baseDataProvider = fakerestDataProvider(generateData(), true);
-
-export const dataProvider = new Proxy(baseDataProvider, {
-    get: (target, name: string) => (resource: string, params: any) =>
-        new Promise(resolve =>
-            setTimeout(
-                () => resolve(baseDataProvider[name](resource, params)),
-                300
-            )
-        ),
-});
+export const dataProvider = fakeRestDataProvider(data, true);
