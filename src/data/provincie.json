@@ -1,0 +1,537 @@
+[
+  {
+    "regione": 19,
+    "sigla": "AG",
+    "nome": "Agrigento"
+  },
+  {
+    "regione": 1,
+    "sigla": "AL",
+    "nome": "Alessandria"
+  },
+  {
+    "regione": 11,
+    "sigla": "AN",
+    "nome": "Ancona"
+  },
+  {
+    "regione": 2,
+    "sigla": "AO",
+    "nome": "Valle d'Aosta/Vallée d'Aoste"
+  },
+  {
+    "regione": 11,
+    "sigla": "AP",
+    "nome": "Ascoli Piceno"
+  },
+  {
+    "regione": 13,
+    "sigla": "AQ",
+    "nome": "L'Aquila"
+  },
+  {
+    "regione": 9,
+    "sigla": "AR",
+    "nome": "Arezzo"
+  },
+  {
+    "regione": 1,
+    "sigla": "AT",
+    "nome": "Asti"
+  },
+  {
+    "regione": 15,
+    "sigla": "AV",
+    "nome": "Avellino"
+  },
+  {
+    "regione": 16,
+    "sigla": "BA",
+    "nome": "Bari"
+  },
+  {
+    "regione": 3,
+    "sigla": "BG",
+    "nome": "Bergamo"
+  },
+  {
+    "regione": 1,
+    "sigla": "BI",
+    "nome": "Biella"
+  },
+  {
+    "regione": 5,
+    "sigla": "BL",
+    "nome": "Belluno"
+  },
+  {
+    "regione": 15,
+    "sigla": "BN",
+    "nome": "Benevento"
+  },
+  {
+    "regione": 8,
+    "sigla": "BO",
+    "nome": "Bologna"
+  },
+  {
+    "regione": 16,
+    "sigla": "BR",
+    "nome": "Brindisi"
+  },
+  {
+    "regione": 3,
+    "sigla": "BS",
+    "nome": "Brescia"
+  },
+  {
+    "regione": 16,
+    "sigla": "BT",
+    "nome": "Barletta-Andria-Trani"
+  },
+  {
+    "regione": 4,
+    "sigla": "BZ",
+    "nome": "Bolzano/Bozen"
+  },
+  {
+    "regione": 20,
+    "sigla": "CA",
+    "nome": "Cagliari"
+  },
+  {
+    "regione": 14,
+    "sigla": "CB",
+    "nome": "Campobasso"
+  },
+  {
+    "regione": 15,
+    "sigla": "CE",
+    "nome": "Caserta"
+  },
+  {
+    "regione": 13,
+    "sigla": "CH",
+    "nome": "Chieti"
+  },
+  {
+    "regione": 19,
+    "sigla": "CL",
+    "nome": "Caltanissetta"
+  },
+  {
+    "regione": 1,
+    "sigla": "CN",
+    "nome": "Cuneo"
+  },
+  {
+    "regione": 3,
+    "sigla": "CO",
+    "nome": "Como"
+  },
+  {
+    "regione": 3,
+    "sigla": "CR",
+    "nome": "Cremona"
+  },
+  {
+    "regione": 18,
+    "sigla": "CS",
+    "nome": "Cosenza"
+  },
+  {
+    "regione": 19,
+    "sigla": "CT",
+    "nome": "Catania"
+  },
+  {
+    "regione": 18,
+    "sigla": "CZ",
+    "nome": "Catanzaro"
+  },
+  {
+    "regione": 19,
+    "sigla": "EN",
+    "nome": "Enna"
+  },
+  {
+    "regione": 8,
+    "sigla": "FC",
+    "nome": "Forlì-Cesena"
+  },
+  {
+    "regione": 8,
+    "sigla": "FE",
+    "nome": "Ferrara"
+  },
+  {
+    "regione": 16,
+    "sigla": "FG",
+    "nome": "Foggia"
+  },
+  {
+    "regione": 9,
+    "sigla": "FI",
+    "nome": "Firenze"
+  },
+  {
+    "regione": 11,
+    "sigla": "FM",
+    "nome": "Fermo"
+  },
+  {
+    "regione": 12,
+    "sigla": "FR",
+    "nome": "Frosinone"
+  },
+  {
+    "regione": 7,
+    "sigla": "GE",
+    "nome": "Genova"
+  },
+  {
+    "regione": 6,
+    "sigla": "GO",
+    "nome": "Gorizia"
+  },
+  {
+    "regione": 9,
+    "sigla": "GR",
+    "nome": "Grosseto"
+  },
+  {
+    "regione": 7,
+    "sigla": "IM",
+    "nome": "Imperia"
+  },
+  {
+    "regione": 14,
+    "sigla": "IS",
+    "nome": "Isernia"
+  },
+  {
+    "regione": 18,
+    "sigla": "KR",
+    "nome": "Crotone"
+  },
+  {
+    "regione": 3,
+    "sigla": "LC",
+    "nome": "Lecco"
+  },
+  {
+    "regione": 16,
+    "sigla": "LE",
+    "nome": "Lecce"
+  },
+  {
+    "regione": 9,
+    "sigla": "LI",
+    "nome": "Livorno"
+  },
+  {
+    "regione": 3,
+    "sigla": "LO",
+    "nome": "Lodi"
+  },
+  {
+    "regione": 12,
+    "sigla": "LT",
+    "nome": "Latina"
+  },
+  {
+    "regione": 9,
+    "sigla": "LU",
+    "nome": "Lucca"
+  },
+  {
+    "regione": 3,
+    "sigla": "MB",
+    "nome": "Monza e della Brianza"
+  },
+  {
+    "regione": 11,
+    "sigla": "MC",
+    "nome": "Macerata"
+  },
+  {
+    "regione": 19,
+    "sigla": "ME",
+    "nome": "Messina"
+  },
+  {
+    "regione": 3,
+    "sigla": "MI",
+    "nome": "Milano"
+  },
+  {
+    "regione": 3,
+    "sigla": "MN",
+    "nome": "Mantova"
+  },
+  {
+    "regione": 8,
+    "sigla": "MO",
+    "nome": "Modena"
+  },
+  {
+    "regione": 9,
+    "sigla": "MS",
+    "nome": "Massa-Carrara"
+  },
+  {
+    "regione": 17,
+    "sigla": "MT",
+    "nome": "Matera"
+  },
+  {
+    "regione": 15,
+    "sigla": "NA",
+    "nome": "Napoli"
+  },
+  {
+    "regione": 1,
+    "sigla": "NO",
+    "nome": "Novara"
+  },
+  {
+    "regione": 20,
+    "sigla": "NU",
+    "nome": "Nuoro"
+  },
+  {
+    "regione": 20,
+    "sigla": "OR",
+    "nome": "Oristano"
+  },
+  {
+    "regione": 19,
+    "sigla": "PA",
+    "nome": "Palermo"
+  },
+  {
+    "regione": 8,
+    "sigla": "PC",
+    "nome": "Piacenza"
+  },
+  {
+    "regione": 5,
+    "sigla": "PD",
+    "nome": "Padova"
+  },
+  {
+    "regione": 13,
+    "sigla": "PE",
+    "nome": "Pescara"
+  },
+  {
+    "regione": 10,
+    "sigla": "PG",
+    "nome": "Perugia"
+  },
+  {
+    "regione": 9,
+    "sigla": "PI",
+    "nome": "Pisa"
+  },
+  {
+    "regione": 6,
+    "sigla": "PN",
+    "nome": "Pordenone"
+  },
+  {
+    "regione": 9,
+    "sigla": "PO",
+    "nome": "Prato"
+  },
+  {
+    "regione": 8,
+    "sigla": "PR",
+    "nome": "Parma"
+  },
+  {
+    "regione": 9,
+    "sigla": "PT",
+    "nome": "Pistoia"
+  },
+  {
+    "regione": 11,
+    "sigla": "PU",
+    "nome": "Pesaro e Urbino"
+  },
+  {
+    "regione": 3,
+    "sigla": "PV",
+    "nome": "Pavia"
+  },
+  {
+    "regione": 17,
+    "sigla": "PZ",
+    "nome": "Potenza"
+  },
+  {
+    "regione": 8,
+    "sigla": "RA",
+    "nome": "Ravenna"
+  },
+  {
+    "regione": 18,
+    "sigla": "RC",
+    "nome": "Reggio Calabria"
+  },
+  {
+    "regione": 8,
+    "sigla": "RE",
+    "nome": "Reggio nell'Emilia"
+  },
+  {
+    "regione": 19,
+    "sigla": "RG",
+    "nome": "Ragusa"
+  },
+  {
+    "regione": 12,
+    "sigla": "RI",
+    "nome": "Rieti"
+  },
+  {
+    "regione": 12,
+    "sigla": "RM",
+    "nome": "Roma"
+  },
+  {
+    "regione": 8,
+    "sigla": "RN",
+    "nome": "Rimini"
+  },
+  {
+    "regione": 5,
+    "sigla": "RO",
+    "nome": "Rovigo"
+  },
+  {
+    "regione": 15,
+    "sigla": "SA",
+    "nome": "Salerno"
+  },
+  {
+    "regione": 9,
+    "sigla": "SI",
+    "nome": "Siena"
+  },
+  {
+    "regione": 3,
+    "sigla": "SO",
+    "nome": "Sondrio"
+  },
+  {
+    "regione": 7,
+    "sigla": "SP",
+    "nome": "La Spezia"
+  },
+  {
+    "regione": 19,
+    "sigla": "SR",
+    "nome": "Siracusa"
+  },
+  {
+    "regione": 20,
+    "sigla": "SS",
+    "nome": "Sassari"
+  },
+  {
+    "regione": 20,
+    "sigla": "SU",
+    "nome": "Sud Sardegna"
+  },
+  {
+    "regione": 7,
+    "sigla": "SV",
+    "nome": "Savona"
+  },
+  {
+    "regione": 16,
+    "sigla": "TA",
+    "nome": "Taranto"
+  },
+  {
+    "regione": 13,
+    "sigla": "TE",
+    "nome": "Teramo"
+  },
+  {
+    "regione": 4,
+    "sigla": "TN",
+    "nome": "Trento"
+  },
+  {
+    "regione": 1,
+    "sigla": "TO",
+    "nome": "Torino"
+  },
+  {
+    "regione": 19,
+    "sigla": "TP",
+    "nome": "Trapani"
+  },
+  {
+    "regione": 10,
+    "sigla": "TR",
+    "nome": "Terni"
+  },
+  {
+    "regione": 6,
+    "sigla": "TS",
+    "nome": "Trieste"
+  },
+  {
+    "regione": 5,
+    "sigla": "TV",
+    "nome": "Treviso"
+  },
+  {
+    "regione": 6,
+    "sigla": "UD",
+    "nome": "Udine"
+  },
+  {
+    "regione": 3,
+    "sigla": "VA",
+    "nome": "Varese"
+  },
+  {
+    "regione": 1,
+    "sigla": "VB",
+    "nome": "Verbano-Cusio-Ossola"
+  },
+  {
+    "regione": 1,
+    "sigla": "VC",
+    "nome": "Vercelli"
+  },
+  {
+    "regione": 5,
+    "sigla": "VE",
+    "nome": "Venezia"
+  },
+  {
+    "regione": 5,
+    "sigla": "VI",
+    "nome": "Vicenza"
+  },
+  {
+    "regione": 5,
+    "sigla": "VR",
+    "nome": "Verona"
+  },
+  {
+    "regione": 12,
+    "sigla": "VT",
+    "nome": "Viterbo"
+  },
+  {
+    "regione": 18,
+    "sigla": "VV",
+    "nome": "Vibo Valentia"
+  }
+]

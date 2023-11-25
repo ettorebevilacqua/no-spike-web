@@ -1,0 +1,142 @@
+[
+  {
+    "zona": "Nord-ovest",
+    "cod": 1,
+    "nome": "Piemonte",
+    "numpv": 8,
+    "numcomuni": 1180
+  },
+  {
+    "zona": "Nord-ovest",
+    "cod": 2,
+    "nome": "Valle d'Aosta",
+    "numpv": 1,
+    "numcomuni": 74
+  },
+  {
+    "zona": "Nord-ovest",
+    "cod": 3,
+    "nome": "Lombardia",
+    "numpv": 12,
+    "numcomuni": 1504
+  },
+  {
+    "zona": "Nord-est",
+    "cod": 4,
+    "nome": "Trentino-Alto Adige",
+    "numpv": 2,
+    "numcomuni": 282
+  },
+  {
+    "zona": "Nord-est",
+    "cod": 5,
+    "nome": "Veneto",
+    "numpv": 7,
+    "numcomuni": 563
+  },
+  {
+    "zona": "Nord-est",
+    "cod": 6,
+    "nome": "Friuli-Venezia Giulia",
+    "numpv": 4,
+    "numcomuni": 215
+  },
+  {
+    "zona": "Nord-ovest",
+    "cod": 7,
+    "nome": "Liguria",
+    "numpv": 4,
+    "numcomuni": 234
+  },
+  {
+    "zona": "Nord-est",
+    "cod": 8,
+    "nome": "Emilia-Romagna",
+    "numpv": 9,
+    "numcomuni": 330
+  },
+  {
+    "zona": "Centro",
+    "cod": 9,
+    "nome": "Toscana",
+    "numpv": 10,
+    "numcomuni": 273
+  },
+  {
+    "zona": "Centro",
+    "cod": 10,
+    "nome": "Umbria",
+    "numpv": 2,
+    "numcomuni": 92
+  },
+  {
+    "zona": "Centro",
+    "cod": 11,
+    "nome": "Marche",
+    "numpv": 5,
+    "numcomuni": 225
+  },
+  {
+    "zona": "Centro",
+    "cod": 12,
+    "nome": "Lazio",
+    "numpv": 5,
+    "numcomuni": 378
+  },
+  {
+    "zona": "Sud",
+    "cod": 13,
+    "nome": "Abruzzo",
+    "numpv": 4,
+    "numcomuni": 305
+  },
+  {
+    "zona": "Sud",
+    "cod": 14,
+    "nome": "Molise",
+    "numpv": 2,
+    "numcomuni": 136
+  },
+  {
+    "zona": "Sud",
+    "cod": 15,
+    "nome": "Campania",
+    "numpv": 5,
+    "numcomuni": 550
+  },
+  {
+    "zona": "Sud",
+    "cod": 16,
+    "nome": "Puglia",
+    "numpv": 6,
+    "numcomuni": 257
+  },
+  {
+    "zona": "Sud",
+    "cod": 17,
+    "nome": "Basilicata",
+    "numpv": 2,
+    "numcomuni": 131
+  },
+  {
+    "zona": "Sud",
+    "cod": 18,
+    "nome": "Calabria",
+    "numpv": 5,
+    "numcomuni": 404
+  },
+  {
+    "zona": "Isole",
+    "cod": 19,
+    "nome": "Sicilia",
+    "numpv": 9,
+    "numcomuni": 391
+  },
+  {
+    "zona": "Isole",
+    "cod": 20,
+    "nome": "Sardegna",
+    "numpv": 9,
+    "numcomuni": 377
+  }
+]
