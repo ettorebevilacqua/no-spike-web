@@ -1,0 +1,12 @@
+.maps {
+
+}
+svg path:hover {
+  fill: #fff;
+}
+svg path.selected {
+  fill: #fff !important;
+}
+.regione {
+  transition: all 200ms ease-in-out;
+}
