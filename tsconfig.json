@@ -6,6 +6,8 @@
       "dom.iterable",
       "esnext"
     ],
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
@@ -18,9 +20,13 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "types": ["vite-plugin-svgr/client"]
+
   },
   "include": [
-    "src"
+    "src",
+    "global.d.ts",
+    "svg.d.ts"
   ]
 }
