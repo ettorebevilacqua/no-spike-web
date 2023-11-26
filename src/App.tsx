@@ -20,6 +20,7 @@ import Visitor from './visitors/Visitor';
 import Layout from './Layout';
 import { theme } from './theme';
 import i18nProvider from './i18nProvider';
+import { FindCity } from './italy/findCity';
 
 export const App = () => (
     <Admin
@@ -34,6 +35,7 @@ export const App = () => (
         <Resource name="posts" list={ListGuesser} edit={EditGuesser} show={ShowGuesser} />
         <Resource name="comments" list={ListGuesser} edit={EditGuesser} show={ShowGuesser} />
         <Resource name="visitors" edit={Visitor} show={ShowGuesser} />
+        <Resource name="findcity" edit={FindCity} show={ShowGuesser} />
 
         {/* <Resource name="deals" {...deals} />
         <Resource name="contacts" {...contacts} />
