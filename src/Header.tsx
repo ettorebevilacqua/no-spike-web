@@ -6,6 +6,7 @@ const Header = () => {
     const location = useLocation();
 
     const match: Record<string, string>= {
+        '/visitors/*': '/visitors',
         '/contacts/*': '/contacts',
         '/companies/*' : '/companies',
         '/deals/*': '/deals'
@@ -46,6 +47,13 @@ const Header = () => {
                                     to="/"
                                     value="/"
                                 />
+                                <Tab
+                                    label={'Visitors'}
+                                    component={Link}
+                                    to="/visitors/create"
+                                    value="/visitors/create"
+                                />
+
                                 <Tab
                                     label={'Contacts'}
                                     component={Link}
