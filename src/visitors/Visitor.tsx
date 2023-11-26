@@ -114,10 +114,10 @@ const VisitorCreate = () => {
                 <SectionTitle label="resources.visitors.fieldGroups.identity" />
                 <Box display={{ xs: 'block', sm: 'flex', width: '100%' }}>
                     <Box flex={1} mr={{ xs: 0, sm: '0.5em' }}>
-                        <TextInput source="first_name" isRequired fullWidth />
+                        <TextInput source="first_name" label="resources.visitors.fieldGroups.first_name" isRequired fullWidth />
                     </Box>
                     <Box flex={1} ml={{ xs: 0, sm: '0.5em' }}>
-                        <TextInput source="last_name" isRequired fullWidth />
+                        <TextInput source="last_name" label="resources.visitors.fieldGroups.last_name" isRequired fullWidth />
                     </Box>
                 </Box>
 
@@ -128,6 +128,7 @@ const VisitorCreate = () => {
                 <SectionTitle label="resources.visitors.fieldGroups.address" />
                 <TextInput
                     source="address"
+                    label="resources.visitors.fieldGroups.address"
                     multiline
                     fullWidth
                     helperText={false}

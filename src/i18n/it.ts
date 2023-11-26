@@ -13,11 +13,11 @@ export const messages = {
         visitors: {
             name: 'Visitor |||| Visitors',
             fieldGroups:{
-                address: 'address',
+                address: 'Indirizzo',
                 password: 'password',
-                identity: 'identity',
-                first_name: 'first name',
-                last_name: 'last_name'
+                identity: 'Identità',
+                first_name: 'nome',
+                last_name: 'cognome'
             },
             fields: {
                 commands: 'Orders',
